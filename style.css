@@ -269,6 +269,9 @@ ul {
     .home-cards{
         grid-template-columns: 1fr;
     }
+     .xbox .content {
+        width: 50%;
+    }
     .links .links-inner {
         grid-template-columns: 1fr;
     }
